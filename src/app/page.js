@@ -209,7 +209,7 @@ export default function Widget() {
                 ท่องเที่ยว
               </span>
               <h3 className="text-lg font-semibold text-gray-800 mb-2">
-                เดินเที่ยวชมเมืองเก่าที่ภูเก็ต
+                เดินเที่ยวชมเมืองเก่าที่ภูเก็ตdddddddddddddd
               </h3>
               <p className="text-gray-600">
                 เรื่องราวที่ไม่เคยรู้มาก่อนเกี่ยวกับเมืองภูเก็ตddddddddddddddddd...
